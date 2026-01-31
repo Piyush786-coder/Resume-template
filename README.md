@@ -15,7 +15,7 @@ A clean, responsive HTML &amp; CSS resume showcasing my skills, experience, and 
 <hr>
 
 ### 🌐 Live Resume  
-👉 https://Piyush786-coder.github.io/REPOSITORY_NAME/
+👉 https://Piyush786-coder.github.io/Resume-template/
 
 ### 🛠️ Built With
 - HTML5  
